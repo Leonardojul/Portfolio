@@ -1,6 +1,14 @@
-# Portfolio
-Compilation of data analysis works
+# Leonardo Jul's data analysis portfolio
 
-[Project 1](https://leonardojul.github.io/Customer-Support_EDA_Power_BI/)
+In this document you will find some of my works on different fields of data analysis. Below each title there is a short description of what the project is about and a collection of keywords listing the software or technology used, as well as some of the skills required to carry out the project.
 
-[Project 2](https://github.com/Leonardojul/financial/blob/main/Financial%20analysis.ipynb)
+For more information on eeach on of them, you may click the link in the title, which will take you directly to it's core, where further details can be found. Enjouy!
+
+##Compilation of data analysis works
+
+###[Customer support EDA](https://leonardojul.github.io/Customer-Support_EDA_Power_BI/)
+This project was done for a company I worked for. It is aimed to provide an initial analysis of the customer support team by looking at ticket statistics, incoming work or work categorization. This project was the foundation to a set of measures and improvements proposed to the managemnt in order to overcome an understaffing situation as well as a work estimation reliablity issue.
+
+Keywords: #EDA #DAX #Power BI #KPI #MAPE #Categorization #Data visualization
+
+[Project 2](https://htmlpreview.github.io/?https://github.com/Leonardojul/financial/blob/docs/Financial_analysis.html)

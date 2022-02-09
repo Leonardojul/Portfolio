@@ -6,7 +6,7 @@ For more information on eeach on of them, you may click the link in the title, w
 
 ## Compilation of data analysis works
 
-### [Mobility changes during covid](https://htmlpreview.github.io/?https://github.com/Leonardojul/mobility_corona/blob/main/mobility-changes-during-covid.html)(ongoing)
+### [Mobility changes during covid](https://htmlpreview.github.io/?https://github.com/Leonardojul/mobility_corona/blob/main/mobility-changes-during-covid.html) (ongoing)
 My latest and current project focuses on answering the question of whether the population in the Netherlands does actually follow the governemtn restriction recommendations due to the Covid-19 outbreak. By comparing the timeline with all measurements in place and the mobility data during covid provided by Google public datasets, this projet aims to answer the question above and predict where will the populatiion concetrate on depending on which measures are currently in place (parks, residential areas, shopping areas, business areas...)
 
 Keywords: **#Python #SQL #BigQuery #Google Cloud #matplotlib #pandas #RandomForests #heatmap #MAE #predictive analysis #forecast**
